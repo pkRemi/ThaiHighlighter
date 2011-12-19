@@ -1,0 +1,9 @@
+Thai Highligter
+
+This is a program under developement that is ment as an aid for learning to read Thai. Currently, it is mostly a proof of concept. It uses a list of "all" known Thai words to identify individual words. In the Thai language there are no spaces between words.
+The purpose of this is to allow the user to select individual words and store them for use in flashcards and mark them as known. The program will then highlight known words in a different colour. This will allow the user to quickly identify known and unknown words in a new text.
+It is based on a simmilar concept as lingq.com, but this service does not support Thai language.
+To work this program needs a file with many (all) Thai words listed in order from the longest to the shortest. The engine is currently not very efficient, and very long texts will take a long time to parse.
+Thai Highligter is developed using QT on Windows, but should work on both Linux and OSX.
+
+pkRemi
